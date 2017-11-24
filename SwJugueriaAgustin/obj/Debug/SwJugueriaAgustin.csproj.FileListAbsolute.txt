@@ -1,0 +1,506 @@
+\\192.168.0.9\san agustin\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.csprojResolveAssemblyReference.cache
+\\192.168.0.9\san agustin\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Form1.resources
+\\192.168.0.9\san agustin\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.FrmProducto.resources
+\\192.168.0.9\san agustin\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Properties.Resources.resources
+\\192.168.0.9\san agustin\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.csproj.GenerateResource.Cache
+\\192.168.0.9\san agustin\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.csproj.CoreCompileInputs.cache
+\\192.168.0.9\san agustin\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.exe
+\\192.168.0.9\san agustin\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.pdb
+\\192.168.0.9\san agustin\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\bin\Debug\SwJugueriaAgustin.exe.config
+\\192.168.0.9\san agustin\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\bin\Debug\SwJugueriaAgustin.exe
+\\192.168.0.9\san agustin\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\bin\Debug\SwJugueriaAgustin.pdb
+\\192.168.0.9\san agustin\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\bin\Debug\DevExpress.Data.v17.1.dll
+\\192.168.0.9\san agustin\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\bin\Debug\DevExpress.Utils.v17.1.dll
+\\192.168.0.9\san agustin\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\bin\Debug\DevExpress.XtraBars.v17.1.dll
+\\192.168.0.9\san agustin\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\bin\Debug\DevExpress.XtraEditors.v17.1.dll
+\\192.168.0.9\san agustin\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\bin\Debug\DevExpress.Printing.v17.1.Core.dll
+\\192.168.0.9\san agustin\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\bin\Debug\DevExpress.Sparkline.v17.1.Core.dll
+\\192.168.0.9\san agustin\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\bin\Debug\DevExpress.Pdf.v17.1.Core.dll
+\\192.168.0.9\san agustin\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\bin\Debug\DevExpress.Data.v17.1.xml
+\\192.168.0.9\san agustin\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\bin\Debug\DevExpress.Utils.v17.1.xml
+\\192.168.0.9\san agustin\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\bin\Debug\DevExpress.XtraBars.v17.1.xml
+\\192.168.0.9\san agustin\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\bin\Debug\DevExpress.XtraEditors.v17.1.xml
+\\192.168.0.9\san agustin\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\bin\Debug\DevExpress.Printing.v17.1.Core.xml
+\\192.168.0.9\san agustin\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\bin\Debug\DevExpress.Sparkline.v17.1.Core.xml
+\\192.168.0.9\san agustin\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\bin\Debug\DevExpress.Pdf.v17.1.Core.xml
+\\192.168.0.9\san agustin\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\bin\Debug\de\DevExpress.Data.v17.1.resources.dll
+\\192.168.0.9\san agustin\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\bin\Debug\es\DevExpress.Data.v17.1.resources.dll
+\\192.168.0.9\san agustin\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\bin\Debug\ja\DevExpress.Data.v17.1.resources.dll
+\\192.168.0.9\san agustin\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\bin\Debug\ru\DevExpress.Data.v17.1.resources.dll
+\\192.168.0.9\san agustin\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\bin\Debug\de\DevExpress.Utils.v17.1.resources.dll
+\\192.168.0.9\san agustin\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\bin\Debug\es\DevExpress.Utils.v17.1.resources.dll
+\\192.168.0.9\san agustin\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\bin\Debug\ja\DevExpress.Utils.v17.1.resources.dll
+\\192.168.0.9\san agustin\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\bin\Debug\ru\DevExpress.Utils.v17.1.resources.dll
+\\192.168.0.9\san agustin\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\bin\Debug\de\DevExpress.XtraBars.v17.1.resources.dll
+\\192.168.0.9\san agustin\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\bin\Debug\es\DevExpress.XtraBars.v17.1.resources.dll
+\\192.168.0.9\san agustin\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\bin\Debug\ja\DevExpress.XtraBars.v17.1.resources.dll
+\\192.168.0.9\san agustin\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\bin\Debug\ru\DevExpress.XtraBars.v17.1.resources.dll
+\\192.168.0.9\san agustin\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\bin\Debug\de\DevExpress.XtraEditors.v17.1.resources.dll
+\\192.168.0.9\san agustin\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\bin\Debug\es\DevExpress.XtraEditors.v17.1.resources.dll
+\\192.168.0.9\san agustin\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\bin\Debug\ja\DevExpress.XtraEditors.v17.1.resources.dll
+\\192.168.0.9\san agustin\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\bin\Debug\ru\DevExpress.XtraEditors.v17.1.resources.dll
+\\192.168.0.9\san agustin\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\bin\Debug\de\DevExpress.Printing.v17.1.Core.resources.dll
+\\192.168.0.9\san agustin\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\bin\Debug\es\DevExpress.Printing.v17.1.Core.resources.dll
+\\192.168.0.9\san agustin\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\bin\Debug\ja\DevExpress.Printing.v17.1.Core.resources.dll
+\\192.168.0.9\san agustin\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\bin\Debug\ru\DevExpress.Printing.v17.1.Core.resources.dll
+\\192.168.0.9\san agustin\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\bin\Debug\de\DevExpress.Sparkline.v17.1.Core.resources.dll
+\\192.168.0.9\san agustin\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\bin\Debug\es\DevExpress.Sparkline.v17.1.Core.resources.dll
+\\192.168.0.9\san agustin\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\bin\Debug\ja\DevExpress.Sparkline.v17.1.Core.resources.dll
+\\192.168.0.9\san agustin\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\bin\Debug\ru\DevExpress.Sparkline.v17.1.Core.resources.dll
+\\192.168.0.9\san agustin\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\bin\Debug\de\DevExpress.Pdf.v17.1.Core.resources.dll
+\\192.168.0.9\san agustin\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\bin\Debug\es\DevExpress.Pdf.v17.1.Core.resources.dll
+\\192.168.0.9\san agustin\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\bin\Debug\ja\DevExpress.Pdf.v17.1.Core.resources.dll
+\\192.168.0.9\san agustin\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\bin\Debug\ru\DevExpress.Pdf.v17.1.Core.resources.dll
+\\192.168.0.9\san agustin\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.FrmPrincipal.resources
+\\192.168.0.9\san agustin\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.frmVenta.resources
+\\192.168.0.9\san agustin\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.exe.licenses
+\\192.168.0.9\san agustin\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.FrmPresentaciones.resources
+\\192.168.0.2\san agustin\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\bin\Debug\SwJugueriaAgustin.exe.config
+\\192.168.0.2\san agustin\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\bin\Debug\SwJugueriaAgustin.exe
+\\192.168.0.2\san agustin\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\bin\Debug\SwJugueriaAgustin.pdb
+\\192.168.0.2\san agustin\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\bin\Debug\DevExpress.Data.v17.1.dll
+\\192.168.0.2\san agustin\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\bin\Debug\DevExpress.Utils.v17.1.dll
+\\192.168.0.2\san agustin\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\bin\Debug\DevExpress.XtraBars.v17.1.dll
+\\192.168.0.2\san agustin\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\bin\Debug\DevExpress.XtraEditors.v17.1.dll
+\\192.168.0.2\san agustin\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\bin\Debug\DevExpress.Printing.v17.1.Core.dll
+\\192.168.0.2\san agustin\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\bin\Debug\DevExpress.Sparkline.v17.1.Core.dll
+\\192.168.0.2\san agustin\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\bin\Debug\DevExpress.Pdf.v17.1.Core.dll
+\\192.168.0.2\san agustin\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\bin\Debug\DevExpress.Data.v17.1.xml
+\\192.168.0.2\san agustin\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\bin\Debug\DevExpress.Utils.v17.1.xml
+\\192.168.0.2\san agustin\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\bin\Debug\DevExpress.XtraBars.v17.1.xml
+\\192.168.0.2\san agustin\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\bin\Debug\DevExpress.XtraEditors.v17.1.xml
+\\192.168.0.2\san agustin\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\bin\Debug\DevExpress.Printing.v17.1.Core.xml
+\\192.168.0.2\san agustin\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\bin\Debug\DevExpress.Sparkline.v17.1.Core.xml
+\\192.168.0.2\san agustin\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\bin\Debug\DevExpress.Pdf.v17.1.Core.xml
+\\192.168.0.2\san agustin\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\bin\Debug\de\DevExpress.Data.v17.1.resources.dll
+\\192.168.0.2\san agustin\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\bin\Debug\es\DevExpress.Data.v17.1.resources.dll
+\\192.168.0.2\san agustin\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\bin\Debug\ja\DevExpress.Data.v17.1.resources.dll
+\\192.168.0.2\san agustin\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\bin\Debug\ru\DevExpress.Data.v17.1.resources.dll
+\\192.168.0.2\san agustin\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\bin\Debug\de\DevExpress.Utils.v17.1.resources.dll
+\\192.168.0.2\san agustin\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\bin\Debug\es\DevExpress.Utils.v17.1.resources.dll
+\\192.168.0.2\san agustin\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\bin\Debug\ja\DevExpress.Utils.v17.1.resources.dll
+\\192.168.0.2\san agustin\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\bin\Debug\ru\DevExpress.Utils.v17.1.resources.dll
+\\192.168.0.2\san agustin\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\bin\Debug\de\DevExpress.XtraBars.v17.1.resources.dll
+\\192.168.0.2\san agustin\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\bin\Debug\es\DevExpress.XtraBars.v17.1.resources.dll
+\\192.168.0.2\san agustin\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\bin\Debug\ja\DevExpress.XtraBars.v17.1.resources.dll
+\\192.168.0.2\san agustin\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\bin\Debug\ru\DevExpress.XtraBars.v17.1.resources.dll
+\\192.168.0.2\san agustin\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\bin\Debug\de\DevExpress.XtraEditors.v17.1.resources.dll
+\\192.168.0.2\san agustin\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\bin\Debug\es\DevExpress.XtraEditors.v17.1.resources.dll
+\\192.168.0.2\san agustin\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\bin\Debug\ja\DevExpress.XtraEditors.v17.1.resources.dll
+\\192.168.0.2\san agustin\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\bin\Debug\ru\DevExpress.XtraEditors.v17.1.resources.dll
+\\192.168.0.2\san agustin\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\bin\Debug\de\DevExpress.Printing.v17.1.Core.resources.dll
+\\192.168.0.2\san agustin\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\bin\Debug\es\DevExpress.Printing.v17.1.Core.resources.dll
+\\192.168.0.2\san agustin\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\bin\Debug\ja\DevExpress.Printing.v17.1.Core.resources.dll
+\\192.168.0.2\san agustin\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\bin\Debug\ru\DevExpress.Printing.v17.1.Core.resources.dll
+\\192.168.0.2\san agustin\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\bin\Debug\de\DevExpress.Sparkline.v17.1.Core.resources.dll
+\\192.168.0.2\san agustin\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\bin\Debug\es\DevExpress.Sparkline.v17.1.Core.resources.dll
+\\192.168.0.2\san agustin\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\bin\Debug\ja\DevExpress.Sparkline.v17.1.Core.resources.dll
+\\192.168.0.2\san agustin\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\bin\Debug\ru\DevExpress.Sparkline.v17.1.Core.resources.dll
+\\192.168.0.2\san agustin\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\bin\Debug\de\DevExpress.Pdf.v17.1.Core.resources.dll
+\\192.168.0.2\san agustin\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\bin\Debug\es\DevExpress.Pdf.v17.1.Core.resources.dll
+\\192.168.0.2\san agustin\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\bin\Debug\ja\DevExpress.Pdf.v17.1.Core.resources.dll
+\\192.168.0.2\san agustin\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\bin\Debug\ru\DevExpress.Pdf.v17.1.Core.resources.dll
+\\192.168.0.2\san agustin\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.csprojResolveAssemblyReference.cache
+\\192.168.0.2\san agustin\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Form1.resources
+\\192.168.0.2\san agustin\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.FrmPrincipal.resources
+\\192.168.0.2\san agustin\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.FrmProducto.resources
+\\192.168.0.2\san agustin\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.frmVenta.resources
+\\192.168.0.2\san agustin\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Properties.Resources.resources
+\\192.168.0.2\san agustin\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.csproj.GenerateResource.Cache
+\\192.168.0.2\san agustin\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.exe.licenses
+\\192.168.0.2\san agustin\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.csproj.CoreCompileInputs.cache
+\\192.168.0.2\san agustin\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.exe
+\\192.168.0.2\san agustin\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.pdb
+\\192.168.0.2\san agustin\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.FrmClientes.resources
+\\192.168.0.2\san agustin\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\bin\Debug\DevComponents.DotNetBar2.dll
+\\192.168.0.2\san agustin\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\bin\Debug\DevComponents.DotNetBar2.xml
+\\192.168.0.2\san agustin\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.FrmDetalleVenta.resources
+\\192.168.0.2\san agustin\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.FrmListaVentas.resources
+M:\TOÑO\INNOVATED\SAN AGUSTIN\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Form1.resources
+M:\TOÑO\INNOVATED\SAN AGUSTIN\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.FrmClientes.resources
+M:\TOÑO\INNOVATED\SAN AGUSTIN\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.FrmDetalleVenta.resources
+M:\TOÑO\INNOVATED\SAN AGUSTIN\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.FrmListaVentas.resources
+M:\TOÑO\INNOVATED\SAN AGUSTIN\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.FrmProducto.resources
+M:\TOÑO\INNOVATED\SAN AGUSTIN\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.frmReceta.resources
+M:\TOÑO\INNOVATED\SAN AGUSTIN\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.frmVenta.resources
+M:\TOÑO\INNOVATED\SAN AGUSTIN\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Properties.Resources.resources
+M:\TOÑO\INNOVATED\SAN AGUSTIN\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.csproj.GenerateResource.Cache
+M:\TOÑO\INNOVATED\SAN AGUSTIN\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.exe.licenses
+M:\TOÑO\INNOVATED\SAN AGUSTIN\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.csproj.CoreCompileInputs.cache
+M:\TOÑO\INNOVATED\SAN AGUSTIN\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.csprojResolveAssemblyReference.cache
+M:\TOÑO\INNOVATED\SAN AGUSTIN\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\bin\Debug\SwJugueriaAgustin.exe.config
+M:\TOÑO\INNOVATED\SAN AGUSTIN\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\bin\Debug\SwJugueriaAgustin.exe
+M:\TOÑO\INNOVATED\SAN AGUSTIN\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\bin\Debug\SwJugueriaAgustin.pdb
+M:\TOÑO\INNOVATED\SAN AGUSTIN\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\bin\Debug\DevExpress.Data.v17.1.dll
+M:\TOÑO\INNOVATED\SAN AGUSTIN\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\bin\Debug\DevExpress.Utils.v17.1.dll
+M:\TOÑO\INNOVATED\SAN AGUSTIN\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\bin\Debug\DevExpress.XtraBars.v17.1.dll
+M:\TOÑO\INNOVATED\SAN AGUSTIN\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\bin\Debug\DevExpress.XtraEditors.v17.1.dll
+M:\TOÑO\INNOVATED\SAN AGUSTIN\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\bin\Debug\InputKey.dll
+M:\TOÑO\INNOVATED\SAN AGUSTIN\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\bin\Debug\DevExpress.Printing.v17.1.Core.dll
+M:\TOÑO\INNOVATED\SAN AGUSTIN\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\bin\Debug\DevExpress.Sparkline.v17.1.Core.dll
+M:\TOÑO\INNOVATED\SAN AGUSTIN\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\bin\Debug\DevExpress.Pdf.v17.1.Core.dll
+M:\TOÑO\INNOVATED\SAN AGUSTIN\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\bin\Debug\DevExpress.Data.v17.1.xml
+M:\TOÑO\INNOVATED\SAN AGUSTIN\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\bin\Debug\DevExpress.Utils.v17.1.xml
+M:\TOÑO\INNOVATED\SAN AGUSTIN\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\bin\Debug\DevExpress.XtraBars.v17.1.xml
+M:\TOÑO\INNOVATED\SAN AGUSTIN\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\bin\Debug\DevExpress.XtraEditors.v17.1.xml
+M:\TOÑO\INNOVATED\SAN AGUSTIN\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\bin\Debug\DevExpress.Printing.v17.1.Core.xml
+M:\TOÑO\INNOVATED\SAN AGUSTIN\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\bin\Debug\DevExpress.Sparkline.v17.1.Core.xml
+M:\TOÑO\INNOVATED\SAN AGUSTIN\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\bin\Debug\DevExpress.Pdf.v17.1.Core.xml
+M:\TOÑO\INNOVATED\SAN AGUSTIN\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\bin\Debug\de\DevExpress.Data.v17.1.resources.dll
+M:\TOÑO\INNOVATED\SAN AGUSTIN\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\bin\Debug\es\DevExpress.Data.v17.1.resources.dll
+M:\TOÑO\INNOVATED\SAN AGUSTIN\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\bin\Debug\ja\DevExpress.Data.v17.1.resources.dll
+M:\TOÑO\INNOVATED\SAN AGUSTIN\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\bin\Debug\ru\DevExpress.Data.v17.1.resources.dll
+M:\TOÑO\INNOVATED\SAN AGUSTIN\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\bin\Debug\de\DevExpress.Utils.v17.1.resources.dll
+M:\TOÑO\INNOVATED\SAN AGUSTIN\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\bin\Debug\es\DevExpress.Utils.v17.1.resources.dll
+M:\TOÑO\INNOVATED\SAN AGUSTIN\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\bin\Debug\ja\DevExpress.Utils.v17.1.resources.dll
+M:\TOÑO\INNOVATED\SAN AGUSTIN\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\bin\Debug\ru\DevExpress.Utils.v17.1.resources.dll
+M:\TOÑO\INNOVATED\SAN AGUSTIN\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\bin\Debug\de\DevExpress.XtraBars.v17.1.resources.dll
+M:\TOÑO\INNOVATED\SAN AGUSTIN\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\bin\Debug\es\DevExpress.XtraBars.v17.1.resources.dll
+M:\TOÑO\INNOVATED\SAN AGUSTIN\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\bin\Debug\ja\DevExpress.XtraBars.v17.1.resources.dll
+M:\TOÑO\INNOVATED\SAN AGUSTIN\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\bin\Debug\ru\DevExpress.XtraBars.v17.1.resources.dll
+M:\TOÑO\INNOVATED\SAN AGUSTIN\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\bin\Debug\de\DevExpress.XtraEditors.v17.1.resources.dll
+M:\TOÑO\INNOVATED\SAN AGUSTIN\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\bin\Debug\es\DevExpress.XtraEditors.v17.1.resources.dll
+M:\TOÑO\INNOVATED\SAN AGUSTIN\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\bin\Debug\ja\DevExpress.XtraEditors.v17.1.resources.dll
+M:\TOÑO\INNOVATED\SAN AGUSTIN\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\bin\Debug\ru\DevExpress.XtraEditors.v17.1.resources.dll
+M:\TOÑO\INNOVATED\SAN AGUSTIN\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\bin\Debug\de\DevExpress.Printing.v17.1.Core.resources.dll
+M:\TOÑO\INNOVATED\SAN AGUSTIN\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\bin\Debug\es\DevExpress.Printing.v17.1.Core.resources.dll
+M:\TOÑO\INNOVATED\SAN AGUSTIN\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\bin\Debug\ja\DevExpress.Printing.v17.1.Core.resources.dll
+M:\TOÑO\INNOVATED\SAN AGUSTIN\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\bin\Debug\ru\DevExpress.Printing.v17.1.Core.resources.dll
+M:\TOÑO\INNOVATED\SAN AGUSTIN\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\bin\Debug\de\DevExpress.Sparkline.v17.1.Core.resources.dll
+M:\TOÑO\INNOVATED\SAN AGUSTIN\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\bin\Debug\es\DevExpress.Sparkline.v17.1.Core.resources.dll
+M:\TOÑO\INNOVATED\SAN AGUSTIN\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\bin\Debug\ja\DevExpress.Sparkline.v17.1.Core.resources.dll
+M:\TOÑO\INNOVATED\SAN AGUSTIN\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\bin\Debug\ru\DevExpress.Sparkline.v17.1.Core.resources.dll
+M:\TOÑO\INNOVATED\SAN AGUSTIN\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\bin\Debug\de\DevExpress.Pdf.v17.1.Core.resources.dll
+M:\TOÑO\INNOVATED\SAN AGUSTIN\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\bin\Debug\es\DevExpress.Pdf.v17.1.Core.resources.dll
+M:\TOÑO\INNOVATED\SAN AGUSTIN\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\bin\Debug\ja\DevExpress.Pdf.v17.1.Core.resources.dll
+M:\TOÑO\INNOVATED\SAN AGUSTIN\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\bin\Debug\ru\DevExpress.Pdf.v17.1.Core.resources.dll
+M:\TOÑO\INNOVATED\SAN AGUSTIN\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.exe
+M:\TOÑO\INNOVATED\SAN AGUSTIN\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.pdb
+M:\TOÑO\INNOVATED\SAN AGUSTIN\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.frmCompra.resources
+M:\TOÑO\INNOVATED\SAN AGUSTIN\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.FrmProveedores.resources
+M:\TOÑO\INNOVATED\SAN AGUSTIN\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.FrmDetalleKardex.resources
+\\192.168.0.2\san agustin\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.frmCompra.resources
+\\192.168.0.2\san agustin\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.FrmDetalleKardex.resources
+\\192.168.0.2\san agustin\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.FrmImpresion.resources
+\\192.168.0.2\san agustin\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.FrmKardex.resources
+\\192.168.0.2\san agustin\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.FrmPrincipalPruebas.resources
+\\192.168.0.2\san agustin\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.FrmProveedores.resources
+\\192.168.0.2\san agustin\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.frmReceta.resources
+M:\TOÑO\INNOVATED\SAN AGUSTIN\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.frmProductosPrimos.resources
+\\192.168.0.2\san agustin\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.frmProductosPrimos.resources
+\\192.168.0.4\san agustin\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\bin\Debug\SwJugueriaAgustin.exe.config
+\\192.168.0.4\san agustin\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\bin\Debug\SwJugueriaAgustin.exe
+\\192.168.0.4\san agustin\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\bin\Debug\SwJugueriaAgustin.pdb
+\\192.168.0.4\san agustin\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\bin\Debug\DevComponents.DotNetBar2.dll
+\\192.168.0.4\san agustin\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\bin\Debug\DevExpress.Data.v17.1.dll
+\\192.168.0.4\san agustin\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\bin\Debug\DevExpress.Utils.v17.1.dll
+\\192.168.0.4\san agustin\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\bin\Debug\DevExpress.XtraBars.v17.1.dll
+\\192.168.0.4\san agustin\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\bin\Debug\DevExpress.XtraEditors.v17.1.dll
+\\192.168.0.4\san agustin\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\bin\Debug\DevExpress.Printing.v17.1.Core.dll
+\\192.168.0.4\san agustin\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\bin\Debug\DevExpress.Sparkline.v17.1.Core.dll
+\\192.168.0.4\san agustin\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\bin\Debug\DevExpress.Pdf.v17.1.Core.dll
+\\192.168.0.4\san agustin\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\bin\Debug\DevComponents.DotNetBar2.xml
+\\192.168.0.4\san agustin\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\bin\Debug\DevExpress.Data.v17.1.xml
+\\192.168.0.4\san agustin\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\bin\Debug\DevExpress.Utils.v17.1.xml
+\\192.168.0.4\san agustin\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\bin\Debug\DevExpress.XtraBars.v17.1.xml
+\\192.168.0.4\san agustin\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\bin\Debug\DevExpress.XtraEditors.v17.1.xml
+\\192.168.0.4\san agustin\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\bin\Debug\DevExpress.Printing.v17.1.Core.xml
+\\192.168.0.4\san agustin\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\bin\Debug\DevExpress.Sparkline.v17.1.Core.xml
+\\192.168.0.4\san agustin\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\bin\Debug\DevExpress.Pdf.v17.1.Core.xml
+\\192.168.0.4\san agustin\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\bin\Debug\de\DevExpress.Data.v17.1.resources.dll
+\\192.168.0.4\san agustin\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\bin\Debug\es\DevExpress.Data.v17.1.resources.dll
+\\192.168.0.4\san agustin\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\bin\Debug\ja\DevExpress.Data.v17.1.resources.dll
+\\192.168.0.4\san agustin\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\bin\Debug\ru\DevExpress.Data.v17.1.resources.dll
+\\192.168.0.4\san agustin\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\bin\Debug\de\DevExpress.Utils.v17.1.resources.dll
+\\192.168.0.4\san agustin\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\bin\Debug\es\DevExpress.Utils.v17.1.resources.dll
+\\192.168.0.4\san agustin\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\bin\Debug\ja\DevExpress.Utils.v17.1.resources.dll
+\\192.168.0.4\san agustin\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\bin\Debug\ru\DevExpress.Utils.v17.1.resources.dll
+\\192.168.0.4\san agustin\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\bin\Debug\de\DevExpress.XtraBars.v17.1.resources.dll
+\\192.168.0.4\san agustin\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\bin\Debug\es\DevExpress.XtraBars.v17.1.resources.dll
+\\192.168.0.4\san agustin\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\bin\Debug\ja\DevExpress.XtraBars.v17.1.resources.dll
+\\192.168.0.4\san agustin\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\bin\Debug\ru\DevExpress.XtraBars.v17.1.resources.dll
+\\192.168.0.4\san agustin\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\bin\Debug\de\DevExpress.XtraEditors.v17.1.resources.dll
+\\192.168.0.4\san agustin\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\bin\Debug\es\DevExpress.XtraEditors.v17.1.resources.dll
+\\192.168.0.4\san agustin\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\bin\Debug\ja\DevExpress.XtraEditors.v17.1.resources.dll
+\\192.168.0.4\san agustin\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\bin\Debug\ru\DevExpress.XtraEditors.v17.1.resources.dll
+\\192.168.0.4\san agustin\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\bin\Debug\de\DevExpress.Printing.v17.1.Core.resources.dll
+\\192.168.0.4\san agustin\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\bin\Debug\es\DevExpress.Printing.v17.1.Core.resources.dll
+\\192.168.0.4\san agustin\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\bin\Debug\ja\DevExpress.Printing.v17.1.Core.resources.dll
+\\192.168.0.4\san agustin\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\bin\Debug\ru\DevExpress.Printing.v17.1.Core.resources.dll
+\\192.168.0.4\san agustin\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\bin\Debug\de\DevExpress.Sparkline.v17.1.Core.resources.dll
+\\192.168.0.4\san agustin\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\bin\Debug\es\DevExpress.Sparkline.v17.1.Core.resources.dll
+\\192.168.0.4\san agustin\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\bin\Debug\ja\DevExpress.Sparkline.v17.1.Core.resources.dll
+\\192.168.0.4\san agustin\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\bin\Debug\ru\DevExpress.Sparkline.v17.1.Core.resources.dll
+\\192.168.0.4\san agustin\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\bin\Debug\de\DevExpress.Pdf.v17.1.Core.resources.dll
+\\192.168.0.4\san agustin\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\bin\Debug\es\DevExpress.Pdf.v17.1.Core.resources.dll
+\\192.168.0.4\san agustin\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\bin\Debug\ja\DevExpress.Pdf.v17.1.Core.resources.dll
+\\192.168.0.4\san agustin\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\bin\Debug\ru\DevExpress.Pdf.v17.1.Core.resources.dll
+\\192.168.0.4\san agustin\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.csprojResolveAssemblyReference.cache
+\\192.168.0.4\san agustin\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Form1.resources
+\\192.168.0.4\san agustin\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.FrmClientes.resources
+\\192.168.0.4\san agustin\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.frmCompra.resources
+\\192.168.0.4\san agustin\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.FrmDetalleKardex.resources
+\\192.168.0.4\san agustin\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.FrmDetalleVenta.resources
+\\192.168.0.4\san agustin\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.FrmImpresion.resources
+\\192.168.0.4\san agustin\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.FrmKardex.resources
+\\192.168.0.4\san agustin\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.FrmListaVentas.resources
+\\192.168.0.4\san agustin\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.FrmPrincipal.resources
+\\192.168.0.4\san agustin\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.FrmProducto.resources
+\\192.168.0.4\san agustin\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.frmProductosPrimos.resources
+\\192.168.0.4\san agustin\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.FrmProveedores.resources
+\\192.168.0.4\san agustin\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.frmReceta.resources
+\\192.168.0.4\san agustin\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.frmVenta.resources
+\\192.168.0.4\san agustin\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Properties.Resources.resources
+\\192.168.0.4\san agustin\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.csproj.GenerateResource.Cache
+\\192.168.0.4\san agustin\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.exe.licenses
+\\192.168.0.4\san agustin\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.csproj.CoreCompileInputs.cache
+\\192.168.0.4\san agustin\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.exe
+\\192.168.0.4\san agustin\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.pdb
+M:\TOÑO\INNOVATED\SAN AGUSTIN\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.FrmGestion.resources
+\\192.168.0.4\san agustin\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.FrmGestion.resources
+\\192.168.0.4\san agustin\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.FrmAlmacen.resources
+M:\TOÑO\INNOVATED\SAN AGUSTIN\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.FrmAlmacen.resources
+M:\TOÑO\INNOVATED\SAN AGUSTIN\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.frmAlmacenProductos.resources
+M:\TOÑO\INNOVATED\SAN AGUSTIN\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.frmPrincipalOfi.resources
+M:\TOÑO\INNOVATED\SAN AGUSTIN\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.FrmCompras.resources
+\\192.168.0.22\san agustin\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.csprojResolveAssemblyReference.cache
+\\192.168.0.22\san agustin\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.FrmAlmacen.resources
+\\192.168.0.22\san agustin\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.frmAlmacenProductos.resources
+\\192.168.0.22\san agustin\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.FrmCompras.resources
+\\192.168.0.22\san agustin\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.FrmGestion.resources
+\\192.168.0.22\san agustin\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Form1.resources
+\\192.168.0.22\san agustin\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.FrmClientes.resources
+\\192.168.0.22\san agustin\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.frmCompra.resources
+\\192.168.0.22\san agustin\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.FrmDetalleKardex.resources
+\\192.168.0.22\san agustin\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.FrmDetalleVenta.resources
+\\192.168.0.22\san agustin\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.FrmListaVentas.resources
+\\192.168.0.22\san agustin\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.FrmPrincipal.resources
+\\192.168.0.22\san agustin\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.frmPrincipalOfi.resources
+\\192.168.0.22\san agustin\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.FrmProducto.resources
+\\192.168.0.22\san agustin\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.frmProductosPrimos.resources
+\\192.168.0.22\san agustin\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.FrmProveedores.resources
+\\192.168.0.22\san agustin\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.frmReceta.resources
+\\192.168.0.22\san agustin\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.frmVenta.resources
+\\192.168.0.22\san agustin\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Properties.Resources.resources
+\\192.168.0.22\san agustin\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.csproj.GenerateResource.Cache
+\\192.168.0.22\san agustin\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.exe.licenses
+\\192.168.0.22\san agustin\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.csproj.CoreCompileInputs.cache
+M:\TOÑO\INNOVATED\SAN AGUSTIN\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.frmVentaOfi.resources
+E:\INNOVATED\22-SAN AGUSTIN\SAN AGUSTIN 1.0\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\bin\Debug\SwJugueriaAgustin.exe.config
+E:\INNOVATED\22-SAN AGUSTIN\SAN AGUSTIN 1.0\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\bin\Debug\SwJugueriaAgustin.exe
+E:\INNOVATED\22-SAN AGUSTIN\SAN AGUSTIN 1.0\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\bin\Debug\SwJugueriaAgustin.pdb
+E:\INNOVATED\22-SAN AGUSTIN\SAN AGUSTIN 1.0\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\bin\Debug\DevComponents.DotNetBar2.dll
+E:\INNOVATED\22-SAN AGUSTIN\SAN AGUSTIN 1.0\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\bin\Debug\DevExpress.Data.v17.1.dll
+E:\INNOVATED\22-SAN AGUSTIN\SAN AGUSTIN 1.0\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\bin\Debug\DevExpress.Utils.v17.1.dll
+E:\INNOVATED\22-SAN AGUSTIN\SAN AGUSTIN 1.0\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\bin\Debug\DevExpress.XtraBars.v17.1.dll
+E:\INNOVATED\22-SAN AGUSTIN\SAN AGUSTIN 1.0\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\bin\Debug\DevExpress.XtraEditors.v17.1.dll
+E:\INNOVATED\22-SAN AGUSTIN\SAN AGUSTIN 1.0\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\bin\Debug\DevExpress.Printing.v17.1.Core.dll
+E:\INNOVATED\22-SAN AGUSTIN\SAN AGUSTIN 1.0\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\bin\Debug\DevExpress.Sparkline.v17.1.Core.dll
+E:\INNOVATED\22-SAN AGUSTIN\SAN AGUSTIN 1.0\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\bin\Debug\DevExpress.Pdf.v17.1.Core.dll
+E:\INNOVATED\22-SAN AGUSTIN\SAN AGUSTIN 1.0\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\bin\Debug\DevComponents.DotNetBar2.xml
+E:\INNOVATED\22-SAN AGUSTIN\SAN AGUSTIN 1.0\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\bin\Debug\DevExpress.Data.v17.1.xml
+E:\INNOVATED\22-SAN AGUSTIN\SAN AGUSTIN 1.0\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\bin\Debug\DevExpress.Utils.v17.1.xml
+E:\INNOVATED\22-SAN AGUSTIN\SAN AGUSTIN 1.0\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\bin\Debug\DevExpress.XtraBars.v17.1.xml
+E:\INNOVATED\22-SAN AGUSTIN\SAN AGUSTIN 1.0\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\bin\Debug\DevExpress.XtraEditors.v17.1.xml
+E:\INNOVATED\22-SAN AGUSTIN\SAN AGUSTIN 1.0\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\bin\Debug\DevExpress.Printing.v17.1.Core.xml
+E:\INNOVATED\22-SAN AGUSTIN\SAN AGUSTIN 1.0\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\bin\Debug\DevExpress.Sparkline.v17.1.Core.xml
+E:\INNOVATED\22-SAN AGUSTIN\SAN AGUSTIN 1.0\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\bin\Debug\DevExpress.Pdf.v17.1.Core.xml
+E:\INNOVATED\22-SAN AGUSTIN\SAN AGUSTIN 1.0\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\bin\Debug\de\DevExpress.Data.v17.1.resources.dll
+E:\INNOVATED\22-SAN AGUSTIN\SAN AGUSTIN 1.0\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\bin\Debug\es\DevExpress.Data.v17.1.resources.dll
+E:\INNOVATED\22-SAN AGUSTIN\SAN AGUSTIN 1.0\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\bin\Debug\ja\DevExpress.Data.v17.1.resources.dll
+E:\INNOVATED\22-SAN AGUSTIN\SAN AGUSTIN 1.0\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\bin\Debug\ru\DevExpress.Data.v17.1.resources.dll
+E:\INNOVATED\22-SAN AGUSTIN\SAN AGUSTIN 1.0\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\bin\Debug\de\DevExpress.Utils.v17.1.resources.dll
+E:\INNOVATED\22-SAN AGUSTIN\SAN AGUSTIN 1.0\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\bin\Debug\es\DevExpress.Utils.v17.1.resources.dll
+E:\INNOVATED\22-SAN AGUSTIN\SAN AGUSTIN 1.0\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\bin\Debug\ja\DevExpress.Utils.v17.1.resources.dll
+E:\INNOVATED\22-SAN AGUSTIN\SAN AGUSTIN 1.0\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\bin\Debug\ru\DevExpress.Utils.v17.1.resources.dll
+E:\INNOVATED\22-SAN AGUSTIN\SAN AGUSTIN 1.0\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\bin\Debug\de\DevExpress.XtraBars.v17.1.resources.dll
+E:\INNOVATED\22-SAN AGUSTIN\SAN AGUSTIN 1.0\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\bin\Debug\es\DevExpress.XtraBars.v17.1.resources.dll
+E:\INNOVATED\22-SAN AGUSTIN\SAN AGUSTIN 1.0\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\bin\Debug\ja\DevExpress.XtraBars.v17.1.resources.dll
+E:\INNOVATED\22-SAN AGUSTIN\SAN AGUSTIN 1.0\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\bin\Debug\ru\DevExpress.XtraBars.v17.1.resources.dll
+E:\INNOVATED\22-SAN AGUSTIN\SAN AGUSTIN 1.0\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\bin\Debug\de\DevExpress.XtraEditors.v17.1.resources.dll
+E:\INNOVATED\22-SAN AGUSTIN\SAN AGUSTIN 1.0\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\bin\Debug\es\DevExpress.XtraEditors.v17.1.resources.dll
+E:\INNOVATED\22-SAN AGUSTIN\SAN AGUSTIN 1.0\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\bin\Debug\ja\DevExpress.XtraEditors.v17.1.resources.dll
+E:\INNOVATED\22-SAN AGUSTIN\SAN AGUSTIN 1.0\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\bin\Debug\ru\DevExpress.XtraEditors.v17.1.resources.dll
+E:\INNOVATED\22-SAN AGUSTIN\SAN AGUSTIN 1.0\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\bin\Debug\de\DevExpress.Printing.v17.1.Core.resources.dll
+E:\INNOVATED\22-SAN AGUSTIN\SAN AGUSTIN 1.0\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\bin\Debug\es\DevExpress.Printing.v17.1.Core.resources.dll
+E:\INNOVATED\22-SAN AGUSTIN\SAN AGUSTIN 1.0\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\bin\Debug\ja\DevExpress.Printing.v17.1.Core.resources.dll
+E:\INNOVATED\22-SAN AGUSTIN\SAN AGUSTIN 1.0\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\bin\Debug\ru\DevExpress.Printing.v17.1.Core.resources.dll
+E:\INNOVATED\22-SAN AGUSTIN\SAN AGUSTIN 1.0\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\bin\Debug\de\DevExpress.Sparkline.v17.1.Core.resources.dll
+E:\INNOVATED\22-SAN AGUSTIN\SAN AGUSTIN 1.0\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\bin\Debug\es\DevExpress.Sparkline.v17.1.Core.resources.dll
+E:\INNOVATED\22-SAN AGUSTIN\SAN AGUSTIN 1.0\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\bin\Debug\ja\DevExpress.Sparkline.v17.1.Core.resources.dll
+E:\INNOVATED\22-SAN AGUSTIN\SAN AGUSTIN 1.0\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\bin\Debug\ru\DevExpress.Sparkline.v17.1.Core.resources.dll
+E:\INNOVATED\22-SAN AGUSTIN\SAN AGUSTIN 1.0\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\bin\Debug\de\DevExpress.Pdf.v17.1.Core.resources.dll
+E:\INNOVATED\22-SAN AGUSTIN\SAN AGUSTIN 1.0\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\bin\Debug\es\DevExpress.Pdf.v17.1.Core.resources.dll
+E:\INNOVATED\22-SAN AGUSTIN\SAN AGUSTIN 1.0\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\bin\Debug\ja\DevExpress.Pdf.v17.1.Core.resources.dll
+E:\INNOVATED\22-SAN AGUSTIN\SAN AGUSTIN 1.0\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\bin\Debug\ru\DevExpress.Pdf.v17.1.Core.resources.dll
+E:\INNOVATED\22-SAN AGUSTIN\SAN AGUSTIN 1.0\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.csprojResolveAssemblyReference.cache
+E:\INNOVATED\22-SAN AGUSTIN\SAN AGUSTIN 1.0\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.FrmAlmacen.resources
+E:\INNOVATED\22-SAN AGUSTIN\SAN AGUSTIN 1.0\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.frmAlmacenProductos.resources
+E:\INNOVATED\22-SAN AGUSTIN\SAN AGUSTIN 1.0\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.FrmCompras.resources
+E:\INNOVATED\22-SAN AGUSTIN\SAN AGUSTIN 1.0\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.FrmGestion.resources
+E:\INNOVATED\22-SAN AGUSTIN\SAN AGUSTIN 1.0\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Form1.resources
+E:\INNOVATED\22-SAN AGUSTIN\SAN AGUSTIN 1.0\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.FrmClientes.resources
+E:\INNOVATED\22-SAN AGUSTIN\SAN AGUSTIN 1.0\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.frmCompra.resources
+E:\INNOVATED\22-SAN AGUSTIN\SAN AGUSTIN 1.0\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.FrmDetalleKardex.resources
+E:\INNOVATED\22-SAN AGUSTIN\SAN AGUSTIN 1.0\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.FrmDetalleVenta.resources
+E:\INNOVATED\22-SAN AGUSTIN\SAN AGUSTIN 1.0\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.FrmListaVentas.resources
+E:\INNOVATED\22-SAN AGUSTIN\SAN AGUSTIN 1.0\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.frmPrincipalOfi.resources
+E:\INNOVATED\22-SAN AGUSTIN\SAN AGUSTIN 1.0\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.FrmProducto.resources
+E:\INNOVATED\22-SAN AGUSTIN\SAN AGUSTIN 1.0\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.frmProductosPrimos.resources
+E:\INNOVATED\22-SAN AGUSTIN\SAN AGUSTIN 1.0\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.FrmProveedores.resources
+E:\INNOVATED\22-SAN AGUSTIN\SAN AGUSTIN 1.0\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.frmReceta.resources
+E:\INNOVATED\22-SAN AGUSTIN\SAN AGUSTIN 1.0\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.frmVenta.resources
+E:\INNOVATED\22-SAN AGUSTIN\SAN AGUSTIN 1.0\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.FrmVentaDirecta.resources
+E:\INNOVATED\22-SAN AGUSTIN\SAN AGUSTIN 1.0\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.frmVentaOfi.resources
+E:\INNOVATED\22-SAN AGUSTIN\SAN AGUSTIN 1.0\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Properties.Resources.resources
+E:\INNOVATED\22-SAN AGUSTIN\SAN AGUSTIN 1.0\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.csproj.GenerateResource.Cache
+E:\INNOVATED\22-SAN AGUSTIN\SAN AGUSTIN 1.0\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.exe.licenses
+E:\INNOVATED\22-SAN AGUSTIN\SAN AGUSTIN 1.0\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.csproj.CoreCompileInputs.cache
+E:\INNOVATED\22-SAN AGUSTIN\SAN AGUSTIN 1.0\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.exe
+E:\INNOVATED\22-SAN AGUSTIN\SAN AGUSTIN 1.0\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.pdb
+\\Desktop-fc1c3jj\innovated\22-SAN AGUSTIN\SAN AGUSTIN 1.0\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\bin\Debug\SwJugueriaAgustin.exe.config
+\\Desktop-fc1c3jj\innovated\22-SAN AGUSTIN\SAN AGUSTIN 1.0\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\bin\Debug\SwJugueriaAgustin.exe
+\\Desktop-fc1c3jj\innovated\22-SAN AGUSTIN\SAN AGUSTIN 1.0\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\bin\Debug\SwJugueriaAgustin.pdb
+\\Desktop-fc1c3jj\innovated\22-SAN AGUSTIN\SAN AGUSTIN 1.0\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.csprojResolveAssemblyReference.cache
+\\Desktop-fc1c3jj\innovated\22-SAN AGUSTIN\SAN AGUSTIN 1.0\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.FrmAlmacen.resources
+\\Desktop-fc1c3jj\innovated\22-SAN AGUSTIN\SAN AGUSTIN 1.0\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.frmAlmacenProductos.resources
+\\Desktop-fc1c3jj\innovated\22-SAN AGUSTIN\SAN AGUSTIN 1.0\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.FrmCompras.resources
+\\Desktop-fc1c3jj\innovated\22-SAN AGUSTIN\SAN AGUSTIN 1.0\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.FrmGestion.resources
+\\Desktop-fc1c3jj\innovated\22-SAN AGUSTIN\SAN AGUSTIN 1.0\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Form1.resources
+\\Desktop-fc1c3jj\innovated\22-SAN AGUSTIN\SAN AGUSTIN 1.0\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.FrmClientes.resources
+\\Desktop-fc1c3jj\innovated\22-SAN AGUSTIN\SAN AGUSTIN 1.0\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.frmCompra.resources
+\\Desktop-fc1c3jj\innovated\22-SAN AGUSTIN\SAN AGUSTIN 1.0\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.FrmDetalleKardex.resources
+\\Desktop-fc1c3jj\innovated\22-SAN AGUSTIN\SAN AGUSTIN 1.0\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.FrmDetalleVenta.resources
+\\Desktop-fc1c3jj\innovated\22-SAN AGUSTIN\SAN AGUSTIN 1.0\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.FrmListaVentas.resources
+\\Desktop-fc1c3jj\innovated\22-SAN AGUSTIN\SAN AGUSTIN 1.0\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.frmPrincipalOfi.resources
+\\Desktop-fc1c3jj\innovated\22-SAN AGUSTIN\SAN AGUSTIN 1.0\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.FrmProducto.resources
+\\Desktop-fc1c3jj\innovated\22-SAN AGUSTIN\SAN AGUSTIN 1.0\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.frmProductosPrimos.resources
+\\Desktop-fc1c3jj\innovated\22-SAN AGUSTIN\SAN AGUSTIN 1.0\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.FrmProveedores.resources
+\\Desktop-fc1c3jj\innovated\22-SAN AGUSTIN\SAN AGUSTIN 1.0\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.frmReceta.resources
+\\Desktop-fc1c3jj\innovated\22-SAN AGUSTIN\SAN AGUSTIN 1.0\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.frmVenta.resources
+\\Desktop-fc1c3jj\innovated\22-SAN AGUSTIN\SAN AGUSTIN 1.0\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.FrmVentaDirecta.resources
+\\Desktop-fc1c3jj\innovated\22-SAN AGUSTIN\SAN AGUSTIN 1.0\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.frmVentaOfi.resources
+\\Desktop-fc1c3jj\innovated\22-SAN AGUSTIN\SAN AGUSTIN 1.0\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Properties.Resources.resources
+\\Desktop-fc1c3jj\innovated\22-SAN AGUSTIN\SAN AGUSTIN 1.0\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.csproj.GenerateResource.Cache
+\\Desktop-fc1c3jj\innovated\22-SAN AGUSTIN\SAN AGUSTIN 1.0\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.exe.licenses
+\\Desktop-fc1c3jj\innovated\22-SAN AGUSTIN\SAN AGUSTIN 1.0\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.csproj.CoreCompileInputs.cache
+\\Desktop-fc1c3jj\innovated\22-SAN AGUSTIN\SAN AGUSTIN 1.0\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.exe
+\\Desktop-fc1c3jj\innovated\22-SAN AGUSTIN\SAN AGUSTIN 1.0\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.pdb
+\\Desktop-fc1c3jj\innovated\22-SAN AGUSTIN\SAN AGUSTIN 1.0\SOFTWARE\SwJugueriaAgustin\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.frmAddCantidad.resources
+E:\INNOVATED\22-SAN AGUSTIN\SAN AGUSTIN 1.0\SOFTWARE\SwJugueriaAgustin\bin\Debug\SwJugueriaAgustin.exe.config
+E:\INNOVATED\22-SAN AGUSTIN\SAN AGUSTIN 1.0\SOFTWARE\SwJugueriaAgustin\bin\Debug\SwJugueriaAgustin.exe
+E:\INNOVATED\22-SAN AGUSTIN\SAN AGUSTIN 1.0\SOFTWARE\SwJugueriaAgustin\bin\Debug\SwJugueriaAgustin.pdb
+E:\INNOVATED\22-SAN AGUSTIN\SAN AGUSTIN 1.0\SOFTWARE\SwJugueriaAgustin\bin\Debug\DevComponents.DotNetBar2.dll
+E:\INNOVATED\22-SAN AGUSTIN\SAN AGUSTIN 1.0\SOFTWARE\SwJugueriaAgustin\bin\Debug\DevExpress.Data.v17.1.dll
+E:\INNOVATED\22-SAN AGUSTIN\SAN AGUSTIN 1.0\SOFTWARE\SwJugueriaAgustin\bin\Debug\DevExpress.Utils.v17.1.dll
+E:\INNOVATED\22-SAN AGUSTIN\SAN AGUSTIN 1.0\SOFTWARE\SwJugueriaAgustin\bin\Debug\DevExpress.XtraBars.v17.1.dll
+E:\INNOVATED\22-SAN AGUSTIN\SAN AGUSTIN 1.0\SOFTWARE\SwJugueriaAgustin\bin\Debug\DevExpress.XtraEditors.v17.1.dll
+E:\INNOVATED\22-SAN AGUSTIN\SAN AGUSTIN 1.0\SOFTWARE\SwJugueriaAgustin\bin\Debug\DevExpress.Printing.v17.1.Core.dll
+E:\INNOVATED\22-SAN AGUSTIN\SAN AGUSTIN 1.0\SOFTWARE\SwJugueriaAgustin\bin\Debug\DevExpress.Sparkline.v17.1.Core.dll
+E:\INNOVATED\22-SAN AGUSTIN\SAN AGUSTIN 1.0\SOFTWARE\SwJugueriaAgustin\bin\Debug\DevExpress.Pdf.v17.1.Core.dll
+E:\INNOVATED\22-SAN AGUSTIN\SAN AGUSTIN 1.0\SOFTWARE\SwJugueriaAgustin\bin\Debug\DevComponents.DotNetBar2.xml
+E:\INNOVATED\22-SAN AGUSTIN\SAN AGUSTIN 1.0\SOFTWARE\SwJugueriaAgustin\bin\Debug\DevExpress.Data.v17.1.xml
+E:\INNOVATED\22-SAN AGUSTIN\SAN AGUSTIN 1.0\SOFTWARE\SwJugueriaAgustin\bin\Debug\DevExpress.Utils.v17.1.xml
+E:\INNOVATED\22-SAN AGUSTIN\SAN AGUSTIN 1.0\SOFTWARE\SwJugueriaAgustin\bin\Debug\DevExpress.XtraBars.v17.1.xml
+E:\INNOVATED\22-SAN AGUSTIN\SAN AGUSTIN 1.0\SOFTWARE\SwJugueriaAgustin\bin\Debug\DevExpress.XtraEditors.v17.1.xml
+E:\INNOVATED\22-SAN AGUSTIN\SAN AGUSTIN 1.0\SOFTWARE\SwJugueriaAgustin\bin\Debug\DevExpress.Printing.v17.1.Core.xml
+E:\INNOVATED\22-SAN AGUSTIN\SAN AGUSTIN 1.0\SOFTWARE\SwJugueriaAgustin\bin\Debug\DevExpress.Sparkline.v17.1.Core.xml
+E:\INNOVATED\22-SAN AGUSTIN\SAN AGUSTIN 1.0\SOFTWARE\SwJugueriaAgustin\bin\Debug\DevExpress.Pdf.v17.1.Core.xml
+E:\INNOVATED\22-SAN AGUSTIN\SAN AGUSTIN 1.0\SOFTWARE\SwJugueriaAgustin\bin\Debug\de\DevExpress.Data.v17.1.resources.dll
+E:\INNOVATED\22-SAN AGUSTIN\SAN AGUSTIN 1.0\SOFTWARE\SwJugueriaAgustin\bin\Debug\es\DevExpress.Data.v17.1.resources.dll
+E:\INNOVATED\22-SAN AGUSTIN\SAN AGUSTIN 1.0\SOFTWARE\SwJugueriaAgustin\bin\Debug\ja\DevExpress.Data.v17.1.resources.dll
+E:\INNOVATED\22-SAN AGUSTIN\SAN AGUSTIN 1.0\SOFTWARE\SwJugueriaAgustin\bin\Debug\ru\DevExpress.Data.v17.1.resources.dll
+E:\INNOVATED\22-SAN AGUSTIN\SAN AGUSTIN 1.0\SOFTWARE\SwJugueriaAgustin\bin\Debug\de\DevExpress.Utils.v17.1.resources.dll
+E:\INNOVATED\22-SAN AGUSTIN\SAN AGUSTIN 1.0\SOFTWARE\SwJugueriaAgustin\bin\Debug\es\DevExpress.Utils.v17.1.resources.dll
+E:\INNOVATED\22-SAN AGUSTIN\SAN AGUSTIN 1.0\SOFTWARE\SwJugueriaAgustin\bin\Debug\ja\DevExpress.Utils.v17.1.resources.dll
+E:\INNOVATED\22-SAN AGUSTIN\SAN AGUSTIN 1.0\SOFTWARE\SwJugueriaAgustin\bin\Debug\ru\DevExpress.Utils.v17.1.resources.dll
+E:\INNOVATED\22-SAN AGUSTIN\SAN AGUSTIN 1.0\SOFTWARE\SwJugueriaAgustin\bin\Debug\de\DevExpress.XtraBars.v17.1.resources.dll
+E:\INNOVATED\22-SAN AGUSTIN\SAN AGUSTIN 1.0\SOFTWARE\SwJugueriaAgustin\bin\Debug\es\DevExpress.XtraBars.v17.1.resources.dll
+E:\INNOVATED\22-SAN AGUSTIN\SAN AGUSTIN 1.0\SOFTWARE\SwJugueriaAgustin\bin\Debug\ja\DevExpress.XtraBars.v17.1.resources.dll
+E:\INNOVATED\22-SAN AGUSTIN\SAN AGUSTIN 1.0\SOFTWARE\SwJugueriaAgustin\bin\Debug\ru\DevExpress.XtraBars.v17.1.resources.dll
+E:\INNOVATED\22-SAN AGUSTIN\SAN AGUSTIN 1.0\SOFTWARE\SwJugueriaAgustin\bin\Debug\de\DevExpress.XtraEditors.v17.1.resources.dll
+E:\INNOVATED\22-SAN AGUSTIN\SAN AGUSTIN 1.0\SOFTWARE\SwJugueriaAgustin\bin\Debug\es\DevExpress.XtraEditors.v17.1.resources.dll
+E:\INNOVATED\22-SAN AGUSTIN\SAN AGUSTIN 1.0\SOFTWARE\SwJugueriaAgustin\bin\Debug\ja\DevExpress.XtraEditors.v17.1.resources.dll
+E:\INNOVATED\22-SAN AGUSTIN\SAN AGUSTIN 1.0\SOFTWARE\SwJugueriaAgustin\bin\Debug\ru\DevExpress.XtraEditors.v17.1.resources.dll
+E:\INNOVATED\22-SAN AGUSTIN\SAN AGUSTIN 1.0\SOFTWARE\SwJugueriaAgustin\bin\Debug\de\DevExpress.Printing.v17.1.Core.resources.dll
+E:\INNOVATED\22-SAN AGUSTIN\SAN AGUSTIN 1.0\SOFTWARE\SwJugueriaAgustin\bin\Debug\es\DevExpress.Printing.v17.1.Core.resources.dll
+E:\INNOVATED\22-SAN AGUSTIN\SAN AGUSTIN 1.0\SOFTWARE\SwJugueriaAgustin\bin\Debug\ja\DevExpress.Printing.v17.1.Core.resources.dll
+E:\INNOVATED\22-SAN AGUSTIN\SAN AGUSTIN 1.0\SOFTWARE\SwJugueriaAgustin\bin\Debug\ru\DevExpress.Printing.v17.1.Core.resources.dll
+E:\INNOVATED\22-SAN AGUSTIN\SAN AGUSTIN 1.0\SOFTWARE\SwJugueriaAgustin\bin\Debug\de\DevExpress.Sparkline.v17.1.Core.resources.dll
+E:\INNOVATED\22-SAN AGUSTIN\SAN AGUSTIN 1.0\SOFTWARE\SwJugueriaAgustin\bin\Debug\es\DevExpress.Sparkline.v17.1.Core.resources.dll
+E:\INNOVATED\22-SAN AGUSTIN\SAN AGUSTIN 1.0\SOFTWARE\SwJugueriaAgustin\bin\Debug\ja\DevExpress.Sparkline.v17.1.Core.resources.dll
+E:\INNOVATED\22-SAN AGUSTIN\SAN AGUSTIN 1.0\SOFTWARE\SwJugueriaAgustin\bin\Debug\ru\DevExpress.Sparkline.v17.1.Core.resources.dll
+E:\INNOVATED\22-SAN AGUSTIN\SAN AGUSTIN 1.0\SOFTWARE\SwJugueriaAgustin\bin\Debug\de\DevExpress.Pdf.v17.1.Core.resources.dll
+E:\INNOVATED\22-SAN AGUSTIN\SAN AGUSTIN 1.0\SOFTWARE\SwJugueriaAgustin\bin\Debug\es\DevExpress.Pdf.v17.1.Core.resources.dll
+E:\INNOVATED\22-SAN AGUSTIN\SAN AGUSTIN 1.0\SOFTWARE\SwJugueriaAgustin\bin\Debug\ja\DevExpress.Pdf.v17.1.Core.resources.dll
+E:\INNOVATED\22-SAN AGUSTIN\SAN AGUSTIN 1.0\SOFTWARE\SwJugueriaAgustin\bin\Debug\ru\DevExpress.Pdf.v17.1.Core.resources.dll
+E:\INNOVATED\22-SAN AGUSTIN\SAN AGUSTIN 1.0\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.csprojResolveAssemblyReference.cache
+E:\INNOVATED\22-SAN AGUSTIN\SAN AGUSTIN 1.0\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.frmAddCantidad.resources
+E:\INNOVATED\22-SAN AGUSTIN\SAN AGUSTIN 1.0\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.FrmAlmacen.resources
+E:\INNOVATED\22-SAN AGUSTIN\SAN AGUSTIN 1.0\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.frmAlmacenProductos.resources
+E:\INNOVATED\22-SAN AGUSTIN\SAN AGUSTIN 1.0\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.FrmCompras.resources
+E:\INNOVATED\22-SAN AGUSTIN\SAN AGUSTIN 1.0\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.FrmGestion.resources
+E:\INNOVATED\22-SAN AGUSTIN\SAN AGUSTIN 1.0\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.FrmClientes.resources
+E:\INNOVATED\22-SAN AGUSTIN\SAN AGUSTIN 1.0\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.frmCompra.resources
+E:\INNOVATED\22-SAN AGUSTIN\SAN AGUSTIN 1.0\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.FrmDetalleKardex.resources
+E:\INNOVATED\22-SAN AGUSTIN\SAN AGUSTIN 1.0\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.FrmDetalleVenta.resources
+E:\INNOVATED\22-SAN AGUSTIN\SAN AGUSTIN 1.0\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.FrmListaVentas.resources
+E:\INNOVATED\22-SAN AGUSTIN\SAN AGUSTIN 1.0\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.frmPrincipalOfi.resources
+E:\INNOVATED\22-SAN AGUSTIN\SAN AGUSTIN 1.0\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.FrmProducto.resources
+E:\INNOVATED\22-SAN AGUSTIN\SAN AGUSTIN 1.0\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.frmProductosPrimos.resources
+E:\INNOVATED\22-SAN AGUSTIN\SAN AGUSTIN 1.0\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.FrmProveedores.resources
+E:\INNOVATED\22-SAN AGUSTIN\SAN AGUSTIN 1.0\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.frmReceta.resources
+E:\INNOVATED\22-SAN AGUSTIN\SAN AGUSTIN 1.0\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.frmVenta.resources
+E:\INNOVATED\22-SAN AGUSTIN\SAN AGUSTIN 1.0\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.FrmVentaDirecta.resources
+E:\INNOVATED\22-SAN AGUSTIN\SAN AGUSTIN 1.0\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.frmVentaOfi.resources
+E:\INNOVATED\22-SAN AGUSTIN\SAN AGUSTIN 1.0\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Properties.Resources.resources
+E:\INNOVATED\22-SAN AGUSTIN\SAN AGUSTIN 1.0\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.csproj.GenerateResource.Cache
+E:\INNOVATED\22-SAN AGUSTIN\SAN AGUSTIN 1.0\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.exe.licenses
+E:\INNOVATED\22-SAN AGUSTIN\SAN AGUSTIN 1.0\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.csproj.CoreCompileInputs.cache
+E:\INNOVATED\22-SAN AGUSTIN\SAN AGUSTIN 1.0\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.exe
+E:\INNOVATED\22-SAN AGUSTIN\SAN AGUSTIN 1.0\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.pdb
+E:\INNOVATED\22-SAN AGUSTIN\SAN AGUSTIN 1.0\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.FrmLogin.resources
+E:\INNOVATED\22-SAN AGUSTIN\SAN AGUSTIN 1.0\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.FrmClientesTactil.resources
+\\Desktop-fc1c3jj\innovated\22-SAN AGUSTIN\SAN AGUSTIN 1.0\SOFTWARE\SwJugueriaAgustin\bin\Debug\SwJugueriaAgustin.exe.config
+\\Desktop-fc1c3jj\innovated\22-SAN AGUSTIN\SAN AGUSTIN 1.0\SOFTWARE\SwJugueriaAgustin\bin\Debug\SwJugueriaAgustin.exe
+\\Desktop-fc1c3jj\innovated\22-SAN AGUSTIN\SAN AGUSTIN 1.0\SOFTWARE\SwJugueriaAgustin\bin\Debug\SwJugueriaAgustin.pdb
+\\Desktop-fc1c3jj\innovated\22-SAN AGUSTIN\SAN AGUSTIN 1.0\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.frmAddCantidad.resources
+\\Desktop-fc1c3jj\innovated\22-SAN AGUSTIN\SAN AGUSTIN 1.0\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.FrmAlmacen.resources
+\\Desktop-fc1c3jj\innovated\22-SAN AGUSTIN\SAN AGUSTIN 1.0\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.frmAlmacenProductos.resources
+\\Desktop-fc1c3jj\innovated\22-SAN AGUSTIN\SAN AGUSTIN 1.0\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.FrmClientesTactil.resources
+\\Desktop-fc1c3jj\innovated\22-SAN AGUSTIN\SAN AGUSTIN 1.0\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.FrmGestion.resources
+\\Desktop-fc1c3jj\innovated\22-SAN AGUSTIN\SAN AGUSTIN 1.0\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.FrmLogin.resources
+\\Desktop-fc1c3jj\innovated\22-SAN AGUSTIN\SAN AGUSTIN 1.0\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.FrmClientes.resources
+\\Desktop-fc1c3jj\innovated\22-SAN AGUSTIN\SAN AGUSTIN 1.0\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.frmCompra.resources
+\\Desktop-fc1c3jj\innovated\22-SAN AGUSTIN\SAN AGUSTIN 1.0\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.FrmDetalleKardex.resources
+\\Desktop-fc1c3jj\innovated\22-SAN AGUSTIN\SAN AGUSTIN 1.0\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.FrmDetalleVenta.resources
+\\Desktop-fc1c3jj\innovated\22-SAN AGUSTIN\SAN AGUSTIN 1.0\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.FrmListaVentas.resources
+\\Desktop-fc1c3jj\innovated\22-SAN AGUSTIN\SAN AGUSTIN 1.0\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.frmPrincipalOfi.resources
+\\Desktop-fc1c3jj\innovated\22-SAN AGUSTIN\SAN AGUSTIN 1.0\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.FrmProducto.resources
+\\Desktop-fc1c3jj\innovated\22-SAN AGUSTIN\SAN AGUSTIN 1.0\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.frmProductosPrimos.resources
+\\Desktop-fc1c3jj\innovated\22-SAN AGUSTIN\SAN AGUSTIN 1.0\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.FrmProveedores.resources
+\\Desktop-fc1c3jj\innovated\22-SAN AGUSTIN\SAN AGUSTIN 1.0\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.frmReceta.resources
+\\Desktop-fc1c3jj\innovated\22-SAN AGUSTIN\SAN AGUSTIN 1.0\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.frmVenta.resources
+\\Desktop-fc1c3jj\innovated\22-SAN AGUSTIN\SAN AGUSTIN 1.0\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.FrmVentaDirecta.resources
+\\Desktop-fc1c3jj\innovated\22-SAN AGUSTIN\SAN AGUSTIN 1.0\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Properties.Resources.resources
+\\Desktop-fc1c3jj\innovated\22-SAN AGUSTIN\SAN AGUSTIN 1.0\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.csproj.GenerateResource.Cache
+\\Desktop-fc1c3jj\innovated\22-SAN AGUSTIN\SAN AGUSTIN 1.0\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.exe.licenses
+\\Desktop-fc1c3jj\innovated\22-SAN AGUSTIN\SAN AGUSTIN 1.0\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.csproj.CoreCompileInputs.cache
+\\Desktop-fc1c3jj\innovated\22-SAN AGUSTIN\SAN AGUSTIN 1.0\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.exe
+\\Desktop-fc1c3jj\innovated\22-SAN AGUSTIN\SAN AGUSTIN 1.0\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.pdb
+\\Desktop-fc1c3jj\innovated\22-SAN AGUSTIN\SAN AGUSTIN 1.0\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.csprojResolveAssemblyReference.cache
+\\Desktop-fc1c3jj\innovated\22-SAN AGUSTIN\SAN AGUSTIN 1.0\SOFTWARE\SwJugueriaAgustin\bin\Debug\DevExpress.Printing.v17.1.Core.dll
+\\Desktop-fc1c3jj\innovated\22-SAN AGUSTIN\SAN AGUSTIN 1.0\SOFTWARE\SwJugueriaAgustin\bin\Debug\DevExpress.Pdf.v17.1.Core.dll
+\\Desktop-fc1c3jj\innovated\22-SAN AGUSTIN\SAN AGUSTIN 1.0\SOFTWARE\SwJugueriaAgustin\bin\Debug\DevExpress.Printing.v17.1.Core.xml
+\\Desktop-fc1c3jj\innovated\22-SAN AGUSTIN\SAN AGUSTIN 1.0\SOFTWARE\SwJugueriaAgustin\bin\Debug\DevExpress.Pdf.v17.1.Core.xml
+\\Desktop-fc1c3jj\innovated\22-SAN AGUSTIN\SAN AGUSTIN 1.0\SOFTWARE\SwJugueriaAgustin\bin\Debug\de\DevExpress.Printing.v17.1.Core.resources.dll
+\\Desktop-fc1c3jj\innovated\22-SAN AGUSTIN\SAN AGUSTIN 1.0\SOFTWARE\SwJugueriaAgustin\bin\Debug\es\DevExpress.Printing.v17.1.Core.resources.dll
+\\Desktop-fc1c3jj\innovated\22-SAN AGUSTIN\SAN AGUSTIN 1.0\SOFTWARE\SwJugueriaAgustin\bin\Debug\ja\DevExpress.Printing.v17.1.Core.resources.dll
+\\Desktop-fc1c3jj\innovated\22-SAN AGUSTIN\SAN AGUSTIN 1.0\SOFTWARE\SwJugueriaAgustin\bin\Debug\ru\DevExpress.Printing.v17.1.Core.resources.dll
+\\Desktop-fc1c3jj\innovated\22-SAN AGUSTIN\SAN AGUSTIN 1.0\SOFTWARE\SwJugueriaAgustin\bin\Debug\de\DevExpress.Pdf.v17.1.Core.resources.dll
+\\Desktop-fc1c3jj\innovated\22-SAN AGUSTIN\SAN AGUSTIN 1.0\SOFTWARE\SwJugueriaAgustin\bin\Debug\es\DevExpress.Pdf.v17.1.Core.resources.dll
+\\Desktop-fc1c3jj\innovated\22-SAN AGUSTIN\SAN AGUSTIN 1.0\SOFTWARE\SwJugueriaAgustin\bin\Debug\ja\DevExpress.Pdf.v17.1.Core.resources.dll
+\\Desktop-fc1c3jj\innovated\22-SAN AGUSTIN\SAN AGUSTIN 1.0\SOFTWARE\SwJugueriaAgustin\bin\Debug\ru\DevExpress.Pdf.v17.1.Core.resources.dll
+\\Desktop-fc1c3jj\innovated\22-SAN AGUSTIN\SAN AGUSTIN 1.0\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.csproj.SwJugueriaAgustin.exe.config
+\\Desktop-fc1c3jj\innovated\22-SAN AGUSTIN\SAN AGUSTIN 1.0\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Formularios.FrmProductosReg.resources
+\\Desktop-fc1c3jj\innovated\22-SAN AGUSTIN\SAN AGUSTIN 1.0\SOFTWARE\SwJugueriaAgustin\obj\Debug\SwJugueriaAgustin.Principal.FrmPrincipal.resources
