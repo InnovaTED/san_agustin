@@ -83,6 +83,7 @@
             this.lblcliente = new System.Windows.Forms.Label();
             this.lb4 = new System.Windows.Forms.Label();
             this.label14 = new System.Windows.Forms.Label();
+            this.label17 = new System.Windows.Forms.Label();
             ((System.ComponentModel.ISupportInitialize)(this.dgvProductos)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.dgvDeatalle)).BeginInit();
             this.panel1.SuspendLayout();
@@ -475,6 +476,7 @@
             this.label15.Size = new System.Drawing.Size(84, 17);
             this.label15.TabIndex = 7;
             this.label15.Text = "TIPO VENTA:";
+            this.label15.Click += new System.EventHandler(this.label15_Click);
             // 
             // cbAlmacen
             // 
@@ -724,12 +726,23 @@
             this.label14.Text = "        .: DATOS VENTA :.        ";
             this.label14.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
+            // label17
+            // 
+            this.label17.AutoSize = true;
+            this.label17.Font = new System.Drawing.Font("Segoe UI Semibold", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label17.Location = new System.Drawing.Point(339, 288);
+            this.label17.Name = "label17";
+            this.label17.Size = new System.Drawing.Size(84, 17);
+            this.label17.TabIndex = 9;
+            this.label17.Text = "TIPO VENTA:";
+            // 
             // frmVenta
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.White;
             this.ClientSize = new System.Drawing.Size(1276, 705);
+            this.Controls.Add(this.label17);
             this.Controls.Add(this.label14);
             this.Controls.Add(this.lb4);
             this.Controls.Add(this.lblcliente);
@@ -814,5 +827,6 @@
         private System.Windows.Forms.Label label15;
         private System.Windows.Forms.ComboBox cbAlmacen;
         private System.Windows.Forms.Label label16;
+        private System.Windows.Forms.Label label17;
     }
 }

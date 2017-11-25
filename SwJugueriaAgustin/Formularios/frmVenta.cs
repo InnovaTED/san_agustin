@@ -387,5 +387,11 @@ namespace SwJugueriaAgustin.Formularios
                 dgvProductos.Focus();
             }
         }
+
+        private void label15_Click(object sender, EventArgs e)
+        {
+
+
+        }
     }
 }
